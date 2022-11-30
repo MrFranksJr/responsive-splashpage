@@ -6,7 +6,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     color: #0B3954;
     margin: 0;
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
@@ -96,7 +96,6 @@ p {
     align-items: center;
     padding-top: 2.5em;
     background-color: #BFD7EA;
-    flex-grow: 1;
 }
 
 .img-main {
@@ -190,6 +189,5 @@ input:focus {
     
     .main-content {
         justify-content: center;
-        padding-top: 0;
     }
 }
