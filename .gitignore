@@ -105,4 +105,6 @@ dist
 package-lock.json
 package.json
 vite.config.js
-responsive-triumph.code-workspace
+responsive-splashpage.code-workspace
+
+noce_modules
