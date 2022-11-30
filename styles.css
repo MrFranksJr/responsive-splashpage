@@ -37,8 +37,10 @@ p {
 
 .subheading {
     color: #FF6663;
-    font-weight: 900;  
+    font-weight: 900; 
+    margin-top: 0.9em;
     margin-bottom: 0.5em;
+    text-align: center;
 }
 
 .beta-text,
@@ -94,7 +96,7 @@ p {
    
 .main-content {
     align-items: center;
-    padding-top: 2.5em;
+    padding: 2.5em;
     background-color: #BFD7EA;
 }
 
@@ -103,9 +105,13 @@ p {
     border-radius: 50%;
 }
 
+.main-content p {
+    width: 100%;
+}
+
 .main-content p,
 form {
-    max-width: 450px;
+    text-align: left;
 }
 
 /* =================
@@ -189,5 +195,14 @@ input:focus {
     
     .main-content {
         justify-content: center;
+    }
+
+    .main-content p,
+    form {
+        max-width: 485px;
+    }
+
+    .subheading {
+        margin-top: 0;
     }
 }
