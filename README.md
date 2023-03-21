@@ -9,7 +9,7 @@
 
 I'm currently refreshing my entire JavaScript knowledge through a course on [Scrimba](https://scrimba.com/allcourses)
 
-This next assignment was another small splash/webpage with mobile support. I extended my knowledge and learnt about the viewport (which I was actually already using), transforming text, ordering flexbox items. Box sizing was also thaught in this module, but I wouldn't have been able to complete many of my previous assignments without this one 😉
+This next assignment was another small splash/webpage with mobile support. I extended my knowledge and learnt about the viewport (which I was actually already using), transforming text, ordering flexbox items. Box sizing was also taught in this module, but I wouldn't have been able to complete many of my previous assignments without this one 😉
 <p align="center">
 <img alt="concepts" src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/responsive-splashpage/concepts.png">
 </p>
